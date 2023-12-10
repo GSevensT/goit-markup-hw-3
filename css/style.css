@@ -58,6 +58,10 @@ img {
 
 /*header*/
 
+.header {
+  border-bottom:  #e7e9fc;
+}
+
 .logo {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
