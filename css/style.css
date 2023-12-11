@@ -135,6 +135,7 @@ img {
   gap: 40px;
   position: relative;
   left: 76px;
+  display: inline-flex;
 }
 
 .contact-item .contact {
