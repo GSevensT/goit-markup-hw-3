@@ -210,6 +210,12 @@ img {
 
 /*section2*/
 
+.section-part {
+  padding: 120px;
+  padding-bottom: 120px;
+  padding-top: 120px;
+}
+
 .hidden {
   width: 1px;
   height: 1px;
@@ -224,6 +230,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .featuring {
