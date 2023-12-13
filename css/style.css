@@ -59,6 +59,13 @@ img {
   padding: 24px;
 }
 
+.list {
+  width: 1158px;
+  padding-left: 15%;
+  padding-right: 15%;
+  align-items: center;
+}
+
 .logo {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
@@ -69,6 +76,7 @@ img {
   color: #4d5ae5;
   text-transform: uppercase;
   text-decoration: none;
+  margin-right: 76px;
 }
 
 .accent {
