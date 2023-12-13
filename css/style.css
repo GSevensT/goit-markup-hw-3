@@ -74,8 +74,8 @@ img {
 .list {
   width: 1158px;
   padding: 0, 15px;
-  /*padding-left: 5%;
-  padding-right: 5%;*/
+  padding-left: 24%;
+  padding-right: 24%;
   align-items: center;
 }
 
