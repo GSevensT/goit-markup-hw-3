@@ -54,11 +54,12 @@ img {
 }
 
 .container {
-  width: 1158;
+  width: 1158px;
   margin: 0 auto;
   padding: 0, 15px, 0, 15px;
   padding-left: 15px;
   padding-right: 15px;
+  display: flex;
 }
 
 /*header*/
@@ -66,6 +67,7 @@ img {
 .header {
   background-color: #ffffff;
   padding: 24px;
+  border-bottom: 1px, solid, #e7e9fc;
 }
 
 /*list is new*/
@@ -89,7 +91,7 @@ img {
   text-decoration: none;
   /*added margin right*/
   margin-right: 76px;
-  border-bottom: 1px, solid, #e7e9fc;
+  /*border-bottom: 1px, solid, #e7e9fc;*/
   display: flex;
 }
 
