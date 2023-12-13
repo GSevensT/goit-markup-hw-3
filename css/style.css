@@ -79,6 +79,11 @@ img {
   padding-left: 24px;
   padding-right: 24px;
   align-items: center;
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  position: relative;
+  left: 76px;
 }
 
 .logo {
@@ -120,13 +125,13 @@ img {
   color: #404bbf;
 }
 
-.item {
+/*.item {
   list-style: none;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
+}*/
 
 .contact {
   font-size: 16px;
