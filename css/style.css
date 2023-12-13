@@ -160,6 +160,9 @@ wi  background-color: #ffffff;
   gap: 40px;
   position: relative;
   left: 76px;
+
+  margin-bottom: 72px;
+  margin-right: 24px, 0;
 }
 
 .contact-item .contact {
@@ -261,7 +264,10 @@ wi  background-color: #ffffff;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+ 
   padding-bottom: 120px;
+  margin-bottom: 72px;
+  
 }
 
 /*section4*/
