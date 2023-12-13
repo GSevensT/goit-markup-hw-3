@@ -49,14 +49,14 @@ img {
 
 .link {
   width: 1200px;
-  padding: 0 15px;
-  margin: 0 auto;
+  padding: 0, 15px;
+  margin: 0, auto;
 }
 
 .container {
   width: 1158;
   margin: 0 auto;
-  padding: 0 15px 0 15px;
+  padding: 0, 15px, 0, 15px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -71,7 +71,7 @@ img {
 /*list is new*/
 .list {
   width: 1158px;
-  padding: 0 15px;
+  padding: 0, 15px;
   padding-left: 15%;
   padding-right: 15%;
   align-items: center;
