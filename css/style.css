@@ -26,14 +26,13 @@
 
 .body {
   background-color: #ffffff;
-  color:  #757575;
+  color: #757575;
   font-family: "Roboto", sans-serif;
   letter-spacing: 0.03em;
   margin: 0;
 }
 
 /*new*/
-
 
 img {
   display: block;
@@ -52,11 +51,10 @@ img {
   margin: 0 auto;
 }
 
-
 /*header*/
 
 .header {
-  border-bottom:  #e7e9fc;
+  border-bottom: 1px #e7e9fc;
   background-color: #ffffff;
   padding: 24px;
 }
@@ -271,5 +269,3 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-
