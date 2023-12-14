@@ -71,6 +71,11 @@ img {
   border-bottom: 1px, solid, #e7e9fc;
 }
 
+.navi {
+  display: flex;
+  align-items: center;
+}
+
 /*list is new*/
 .list {
   width: 1158px;
