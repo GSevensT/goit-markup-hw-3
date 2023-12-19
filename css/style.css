@@ -404,6 +404,10 @@ img {
 
 /*portfolio*/
 
+.section-portfolio {
+  padding: 96px 0 120px 0;
+}
+
 .portfolio .button {
   font-family: "Roboto", sans-serif;
 }
