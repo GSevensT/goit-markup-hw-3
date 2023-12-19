@@ -436,14 +436,8 @@ img {
   border: 1px solid transparent;
 }
 
-.function-list {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-
-  margin-bottom: 8px;
+.function-item {
+  width: calc((100% - 48px) / 3);
 }
 
 .header-list {
@@ -452,6 +446,8 @@ img {
   letter-spacing: 0.02em;
   line-height: 1.2;
   color: #2e2f42;
+
+  margin-bottom: 8px;
 }
 
 .header-text {
