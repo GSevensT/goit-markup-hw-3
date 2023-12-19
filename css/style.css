@@ -287,6 +287,11 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+
 .features {
   margin-bottom: 8px;
   width: calc((100% - 3 * 24px) / 4);
@@ -331,8 +336,27 @@ img {
 }
 
 /*section4*/
+.team-item {
+  background-color: var(--white);
+  border-radius: 0 0 4px 4px;
+}
+
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+
 .section-four {
   background-color: #f4f4fd;
+  padding: 120px 0;
+}
+
+.team-header {
+  margin-bottom: 72px;
+}
+
+.team-div {
+  padding: 32px 0;
 }
 
 .features-title {
