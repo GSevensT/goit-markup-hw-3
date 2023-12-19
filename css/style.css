@@ -24,6 +24,7 @@ h6 {
   --whitecolor: #ffffff;
   --slatecolor: #434455;
   --card-border-color: #eeeeee;
+  --cornflower: #e7e9fc;
 }
 
 * {
@@ -436,11 +437,34 @@ img {
   border: 1px solid transparent;
 }
 
+.function-list {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.function-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+
+  margin-bottom: 8px;
+}
+
 .function-item {
   width: calc((100% - 48px) / 3);
 }
 
-.header-list {
+.function-div {
+  padding: 32px 16px;
+  border: 1px solid var(--cornflower);
+  border-top: none;
+}
+
+/*.header-list {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.02em;
@@ -448,14 +472,7 @@ img {
   color: #2e2f42;
 
   margin-bottom: 8px;
-}
-
-.header-list {
-  display: flex;
-  flex-wrap: wrap;
-  column-gap: 24px;
-  row-gap: 48px;
-}
+}*/
 
 .header-text {
   line-height: 1.5;
