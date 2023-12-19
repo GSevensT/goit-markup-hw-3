@@ -262,7 +262,7 @@ img {
   color: #2e2f42;
   margin-bottom: 8px;
 }
-.features-list > .features-info {
+.features-list > .featuring-info {
   width: calc((100% - 3 * 24px) / 4);
 }
 
